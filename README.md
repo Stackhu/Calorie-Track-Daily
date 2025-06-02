@@ -1,10 +1,11 @@
 # OOP大作业: 每日摄入热量统计系统
 
 ## 运行示例: 
-###          编译命令: 
-```          cd code 
-             g++ *.cpp -o a.exe
-             ./a.exe
+### 编译命令: 
+```    
+cd code 
+g++ *.cpp -o a.exe
+./a.exe
 ```
 ###          首次进入程序会提示输入个人信息, 并自动创建data和reports文件夹
 ###          data包含user.csv, food_database.csv, diet_record.csv
