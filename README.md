@@ -1,4 +1,5 @@
 # 面向对象程序设计(c++): 每日摄入热量统计系统
+## Calorie Track Daily 项目文档
 
 ---
 
@@ -15,10 +16,6 @@ g++ *.cpp -o a.exe
 ###          data包含user.csv, food_database.csv, diet_record.csv
 ###          reports包含diet_report.txt, 记录饮食报告
 ###          后续启动程序展示菜单界面, 可根据提示使用相应功能
-
----
-
-## Calorie Track Daily 项目文档
 
 ---
 
