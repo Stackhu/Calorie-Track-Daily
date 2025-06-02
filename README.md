@@ -117,7 +117,7 @@ if (userDB->getAllItems().empty()) {
 }
 ```
 
-### 数据文件加载（无警告 + 自动创建空文件）
+### 数据文件加载（检测已存在文件 + 自动创建空文件）
 ```cpp
 if (!file.is_open()) {
     std::ofstream newFile(filename);
