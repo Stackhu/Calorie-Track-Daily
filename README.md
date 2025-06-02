@@ -1,18 +1,22 @@
 # 面向对象程序设计(c++): 每日摄入热量统计系统
 
+---
+
 ## 运行示例: 
-### 编译命令: 
-```    
+### 编译命令: (以windows powershell为例)
+
+```bash    
 cd code 
 g++ *.cpp -o a.exe
 ./a.exe
 ```
+  
 ###          首次进入程序会提示输入个人信息, 并自动创建data和reports文件夹
 ###          data包含user.csv, food_database.csv, diet_record.csv
 ###          reports包含diet_report.txt, 记录饮食报告
 ###          后续启动程序展示菜单界面, 可根据提示使用相应功能
 
-
+---
 
 ## Calorie Track Daily 项目文档
 
